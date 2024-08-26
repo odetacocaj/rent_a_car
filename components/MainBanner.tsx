@@ -24,8 +24,8 @@ function MainBanner() {
       <div className="main-banner__image-container">
         <div className="main-banner__image">
           <Image src="/hero.png" alt="Car banner image" fill className="object-contain" />
-          <div className="main-banner__image-overlay"></div>
         </div>
+        <div className="main-banner__image-overlay"></div>
       </div>
     </div>
   );
