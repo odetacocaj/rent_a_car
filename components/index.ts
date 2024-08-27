@@ -5,5 +5,18 @@ import Footer from "./Footer";
 import SearchBar from "./SearchBar";
 import CustomFilter from "./CustomFilter";
 import SearchManufacturer from "./SearchManufacturer";
-
-export { MainBanner, CustomButton, Header, Footer, SearchBar,CustomFilter,SearchManufacturer };
+import CarCard from "./CarCard";
+import CarDetails from "./CarDetails";
+import SearchModel from "./SearchModel";
+export {
+  MainBanner,
+  CustomButton,
+  Header,
+  Footer,
+  SearchBar,
+  CustomFilter,
+  SearchManufacturer,
+  CarCard,
+  SearchModel,
+  CarDetails,
+};
