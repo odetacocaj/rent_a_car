@@ -20,7 +20,7 @@ export default async function Home({ searchParams }: any) {
           <h1 className="text-4xl font-extrabold">Car Catalogue</h1>
           <p>Explore some of our cars</p>
         </div>
-        <div className="home__filter">
+        <div className="home__filters">
           <SearchBar />
 
           <div className="home__filter-container">

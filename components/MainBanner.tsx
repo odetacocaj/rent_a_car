@@ -9,11 +9,7 @@ function MainBanner() {
         <h1 className="main-banner__title">
           Hit the road in style with our hassle-free car rentals!
         </h1>
-        <p className="main-banner__subtitle">
-          Discover the convenience of renting a car that fits your journey. From luxury sedans to
-          family-friendly SUVs, our fleet has something for everyone. Book your car today and start
-          your adventure!
-        </p>
+        <p className="main-banner__subtitle">Book your car today and start your adventure!</p>
 
         <CustomButton
           title="Explore Cars"
