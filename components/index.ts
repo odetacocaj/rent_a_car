@@ -8,6 +8,7 @@ import SearchManufacturer from "./SearchManufacturer";
 import CarCard from "./CarCard";
 import CarDetails from "./CarDetails";
 import SearchModel from "./SearchModel";
+import ShowMore from "./ShowMore";
 export {
   MainBanner,
   CustomButton,
@@ -18,5 +19,6 @@ export {
   SearchManufacturer,
   CarCard,
   SearchModel,
+  ShowMore,
   CarDetails,
 };
